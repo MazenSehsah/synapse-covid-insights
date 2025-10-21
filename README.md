@@ -82,4 +82,4 @@ It highlights how cloud-based data pipelines and modern BI tools enable real-tim
 
 ## 👤 Author
 
-**Mazen Sehsah** | [LinkedIn](linkedin.com/in/mazensehsah/) 
+**Mazen Sehsah** 
